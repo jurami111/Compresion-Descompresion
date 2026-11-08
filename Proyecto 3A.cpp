@@ -1,5 +1,4 @@
 //Grupo 5 
-//Ahí lo corrigen si me equivoqué 
 
 #include <iostream>
 #include <fstream>
